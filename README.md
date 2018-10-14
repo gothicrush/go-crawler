@@ -12,7 +12,7 @@
 
 * 流程图
 
-  ![]([爬取流程图.PNG](https://github.com/gothicrush/go-crawler/blob/master/_images/%E7%88%AC%E5%8F%96%E6%B5%81%E7%A8%8B%E5%9B%BE.PNG) )
+  ![爬取流程图.PNG](https://github.com/gothicrush/go-crawler/blob/master/_images/%E7%88%AC%E5%8F%96%E6%B5%81%E7%A8%8B%E5%9B%BE.PNG) 
 
   1. 通过【城市列表解析器】爬取【城市列表】页面获取【城市链接】
   2. 通过【城市解析器】爬取【城市链接】对应页面获取【用户链接】
@@ -34,7 +34,7 @@
 
 #### Step 4：了解单机单线程版爬虫系统架构
 
-![]([单机版架构图.PNG](https://github.com/gothicrush/go-crawler/blob/master/_images/%E5%8D%95%E6%9C%BA%E7%89%88%E6%9E%B6%E6%9E%84%E5%9B%BE.PNG) )
+![单机版架构图.PNG](https://github.com/gothicrush/go-crawler/blob/master/_images/%E5%8D%95%E6%9C%BA%E7%89%88%E6%9E%B6%E6%9E%84%E5%9B%BE.PNG)
 
 #### Step 5： 实现单机单线程版爬虫
 
